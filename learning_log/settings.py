@@ -33,6 +33,8 @@ ALLOWED_HOSTS = ["*"]
 INSTALLED_APPS = [
     # My Apps
     "app_learning_logs",
+    # Third-Party Apps
+    "bootstrap4",
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
